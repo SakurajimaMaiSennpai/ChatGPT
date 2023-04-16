@@ -14,12 +14,6 @@
   }
 }
 
-  body {
-    background-image: url(".\static\images\93468200_p0.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
 .title h2{
   margin-bottom: 20px;
   color: #4aa593;
